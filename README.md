@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Melany
+- 👋 Hi, I’m Mel
 - 👀 I’m interested in gaming and art
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
